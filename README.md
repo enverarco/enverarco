@@ -35,12 +35,5 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="enverarco's GitHub Stats" src="https://stats.codestackr.vercel.app/api?username=enverarco&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://oisinmacsweeney.netlify.app
 

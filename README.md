@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="enverarco's GitHub Stats" src="https://github-readme-stats.enverarco.vercel.app/api?username=enverarco&show_icons=true&hide_border=true" />
+  <img align="left" alt="enverarco's GitHub Stats" src="https://stats.codestackr.vercel.app/api?username=enverarco&show_icons=true&hide_border=true" />
 
 </details>
 

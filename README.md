@@ -2,11 +2,11 @@
 
 [Website](https://oisinmacsweeney.netlify.app)
 
-## I'm a Developer, and Musician!
+## I'm a Developer and Musician!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To read more books
+- 🌱 Based in Ireland
+- 👯 I’m looking to collaborate with other devs
+- 🥅 Goals: To read more books
 - ⚡ Fun fact: I love to make electronic music 
 
 <br />
